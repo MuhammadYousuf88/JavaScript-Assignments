@@ -1,0 +1,12 @@
+body{
+	background-color:black;
+	color:white;
+}
+div{
+	width:800px;
+	background-color:brown;
+	border-radius:20px;
+}
+h1{
+	font-size:60px;
+}
