@@ -1,0 +1,13 @@
+body{
+	background-color:black;
+	color:white;
+}
+.main{
+	font-size:80px;
+}
+div{
+	height:100px;
+	width:500px;
+	background-color:brown;
+	border-radius:20px;
+}
