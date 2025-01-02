@@ -18,4 +18,11 @@ console.log(Math.round(remDaysToRamadan) + " Months")
 var remDaysToRamadan = a.diff(b) / (1000 * 60 * 60 * 24 * 30 * 12)
 console.log(Math.round(remDaysToRamadan) + " Years")
 
+var date2 = moment("20060427", "YYYYMMDD").fromNow();
+console.log(date2)
 
+var date3 = moment().endOf('hour').fromNow();
+console.log(date3)
+
+var date4 = moment().startOf('hour').fromNow();
+console.log(date4)
