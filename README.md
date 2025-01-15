@@ -12,5 +12,5 @@ https://random-password-creator-with-sequence.netlify.app/
 # User Gender & Age
 https://usergender-age.netlify.app/
 
-#Palindrome Word Checking
+# Palindrome Word Checking
 https://palindrome-word-checking.netlify.app/
